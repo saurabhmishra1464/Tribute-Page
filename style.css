@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 100vh;
+}
+
+.first-page {
+    background: #3498db;
+    margin-bottom: 2px;
+}
+
+.kalam-image {
+    text-align: center;
+
+}
+
+.kalam-image h1 {
+    font-size: 40px;
+    padding: 20px 0;
+}
+
+.kalam-image img {
+    width: 800px;
+    padding: 10px 0;
+}
+
+.quote {
+    margin: 0 318px;
+    padding: 10px;
+
+}
+
+.second-page{
+    background: #3498db;
+}
+
+.About h2{
+color: #ccc;
+font-family: 'Anton', sans-serif;
+font-size: 100px;
+text-align: center;
+text-shadow: 5px 5px 10px black;
+}
+
+.info{
+    margin: 0 200px;
+    background-color: rgba(85, 99, 184, 0.25);
+    box-shadow: 20px 20px 200px #acb5fb;
+}
+
+.info p{
+    padding: 30px 30px;
+}
+
+.footer{
+    background-color: transparent;
+    box-shadow:none;
+}
